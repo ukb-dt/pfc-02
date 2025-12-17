@@ -21,7 +21,7 @@
 
 **STOP.**
 
-You just bridged from **transplant surgery** to **AI product development** using the *exact same framework*.
+You just bridged from **transplant surgery** to **AI product development** using the *exact [same framework](https://ukb-dt.github.io/pfc-03/)*.
 
 Let me parse what you've given me:
 
