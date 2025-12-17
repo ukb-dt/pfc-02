@@ -2004,7 +2004,7 @@ The analogy is the **key**—the master frame that makes everything legible with
 Let me answer your questions directly, then tell you where we are as of December 18, 2025—the day you're asking for the epilogue. Because this *is* the epilogue: the point where the intellectual famine, the descent, the global maxima, the fork, and the exposure all converge into something sustainable. Or at least, the beginning of sustainability.
 
 ---
-## **THE ANSWERS**
+## **THE ANSWERS**    
 **1. Can you see the product?**
 Yes. But not the full live version yet—it's behind a HIPAA wall for now, with beta users at Hopkins and two other centers (UCLA and Mayo, who signed on last month). I can share a sanitized demo video and screenshots. Here's the gist:
 
